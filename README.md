@@ -18,9 +18,16 @@ Este projeto contém automação de testes Web e API usando Cypress e Cucumber.
 - `package.json` - dependências e scripts NPM
 
 ## Instalação do ambiente
-1. Verificar o Node.js instalado (recomendado 18+).
-2. Abra o terminal na pasta do projeto.
-3. Execute:
+1. Instale o Node.js (recomendado 18+). Você pode baixar em: https://nodejs.org/
+2. Após a instalação, confirme no terminal com:
+
+```bash
+node -v
+npm -v
+```
+
+3. Abra o terminal na pasta do projeto.
+4. Execute:
 
 ```bash
 npm install
